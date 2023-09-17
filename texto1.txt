@@ -6,3 +6,5 @@ Vestibulum dictum convallis blandit fringilla inceptos praesent, ridiculus turpi
 quis sem, pharetra felis bibendum mattis sodales. Sem nisi litora in ultricies sollicitudin porttitor 
 aptent commodo fusce enim mauris fringilla pretium, ad iaculis laoreet luctus sociis placerat turpis 
 vulputate vestibulum at facilisi tellus.
+
+Esta es una nueva línea de texto
